@@ -12,7 +12,7 @@ Unduh Xampp pada browser. Kemudian, extract file pada laptop saya di C:\xampp fi
 ## 2. Mengaktifkan Web Server (XAMPP)
 Pada modules Xampp ini terdapat menu Service dan berilah izin khususnya Apache.
 
-![Aktifkan Xampp](img/Screenshot(951).png)
+![Aktifkan Xampp](img/Screenshot%20(951).png)
 
 ## 3. Mulai Membuat PHP
 Membuat FOLDER lab2_php_dasar pada C:\xampp\htdocs seperti dibawah ini:
